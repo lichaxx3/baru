@@ -3,3 +3,9 @@ function helloWorld () {
 }
 
 helloWorld();
+
+function substract (a, b) {
+  console.log(a - b);
+}
+
+substract(5, 3);
